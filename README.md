@@ -15,7 +15,7 @@ To run this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flutter-news-app.git
+   git clone [News App Repository](https://github.com/PrasannKavlekar/NewsApp.git)
 
 2. Navigate to the project directory:
 
